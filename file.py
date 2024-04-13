@@ -7,3 +7,4 @@ while i <= n:
     i += 1
 print(f'Sum 1 to {n}: ', s)
 time.sleep(3)
+
