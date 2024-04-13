@@ -4,4 +4,4 @@ i = 1
 while i <= n:
     s = i + s
     i += 1
-print(f'Sum below numbers 1 to {n}: ', s)
+print(f'Sum 1 to {n}: ', s)
