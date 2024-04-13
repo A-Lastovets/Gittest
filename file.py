@@ -1,4 +1,4 @@
-n = int(input('Enter number of last range: '))
+n = int(input('Enter number for range: '))
 s = 0
 i = 1
 while i <= n:
